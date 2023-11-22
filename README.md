@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathvi412&label=Profile%20views&color=0e75b6&style=flat" alt="prathvi412" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **prathvirajmore412@gmail.com**
 
