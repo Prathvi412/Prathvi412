@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/bJk.gif)]()
+
 <h1 align="center">Hi 👋, I'm Prathviraj More</h1>
 <h3 align="center">A passionate Java developer from Pune,Maharashtra</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
